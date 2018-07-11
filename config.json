@@ -1,0 +1,77 @@
+{
+  "antconfigs": [
+    {
+      "jobs": [
+        "gateway"
+      ],
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9980",
+      "rpcaddr": "localhost:9981",
+      "hostaddr": "localhost:9982"
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    },
+    {
+      "jobs": [
+        "gateway",
+        "host"
+      ],
+      "desiredcurrency": 100000
+    }
+  ],
+  "autoconnect": true
+}
