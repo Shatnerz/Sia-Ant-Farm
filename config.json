@@ -14,63 +14,90 @@
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9983",
+      "rpcaddr": "localhost:9984",
+      "hostaddr": "localhost:9985"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9986",
+      "rpcaddr": "localhost:9987",
+      "hostaddr": "localhost:9988"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9989",
+      "rpcaddr": "localhost:9990",
+      "hostaddr": "localhost:9991"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9992",
+      "rpcaddr": "localhost:9993",
+      "hostaddr": "localhost:9994"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9995",
+      "rpcaddr": "localhost:9996",
+      "hostaddr": "localhost:9997"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:9998",
+      "rpcaddr": "localhost:9999",
+      "hostaddr": "localhost:10000"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:10001",
+      "rpcaddr": "localhost:10002",
+      "hostaddr": "localhost:10003"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:10004",
+      "rpcaddr": "localhost:10005",
+      "hostaddr": "localhost:10006"
     },
     {
       "jobs": [
         "gateway",
         "host"
       ],
-      "desiredcurrency": 100000
+      "desiredcurrency": 100000,
+      "apiaddr": "localhost:10007",
+      "rpcaddr": "localhost:10008",
+      "hostaddr": "localhost:10009"
     }
   ],
   "autoconnect": true
