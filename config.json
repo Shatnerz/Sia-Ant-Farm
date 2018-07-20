@@ -5,9 +5,9 @@
         "gateway"
       ],
       "desiredcurrency": 100000,
-      "apiaddr": "localhost:9980",
-      "rpcaddr": "localhost:9981",
-      "hostaddr": "localhost:9982"
+      "apiaddr": "127.0.0.1:8000",
+      "rpcaddr": "127.0.0.1:9981",
+      "hostaddr": "127.0.0.1:9982"
     },
     {
       "jobs": [
@@ -15,9 +15,9 @@
         "host"
       ],
       "desiredcurrency": 100000,
-      "apiaddr": "localhost:9983",
-      "rpcaddr": "localhost:9984",
-      "hostaddr": "localhost:9985"
+      "apiaddr": "127.0.0.1:9983",
+      "rpcaddr": "127.0.0.1:9984",
+      "hostaddr": "127.0.0.1:9985"
     },
     {
       "jobs": [
@@ -25,9 +25,9 @@
         "host"
       ],
       "desiredcurrency": 100000,
-      "apiaddr": "localhost:9986",
-      "rpcaddr": "localhost:9987",
-      "hostaddr": "localhost:9988"
+      "apiaddr": "127.0.0.1:9986",
+      "rpcaddr": "127.0.0.1:9987",
+      "hostaddr": "127.0.0.1:9988"
     },
     {
       "jobs": [
@@ -35,69 +35,9 @@
         "host"
       ],
       "desiredcurrency": 100000,
-      "apiaddr": "localhost:9989",
-      "rpcaddr": "localhost:9990",
-      "hostaddr": "localhost:9991"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:9992",
-      "rpcaddr": "localhost:9993",
-      "hostaddr": "localhost:9994"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:9995",
-      "rpcaddr": "localhost:9996",
-      "hostaddr": "localhost:9997"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:9998",
-      "rpcaddr": "localhost:9999",
-      "hostaddr": "localhost:10000"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:10001",
-      "rpcaddr": "localhost:10002",
-      "hostaddr": "localhost:10003"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:10004",
-      "rpcaddr": "localhost:10005",
-      "hostaddr": "localhost:10006"
-    },
-    {
-      "jobs": [
-        "gateway",
-        "host"
-      ],
-      "desiredcurrency": 100000,
-      "apiaddr": "localhost:10007",
-      "rpcaddr": "localhost:10008",
-      "hostaddr": "localhost:10009"
+      "apiaddr": "127.0.0.1:9989",
+      "rpcaddr": "127.0.0.1:9990",
+      "hostaddr": "127.0.0.1:9991"
     }
   ],
   "autoconnect": true
