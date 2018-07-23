@@ -9,8 +9,8 @@ network behaviour than Sia's existing automated testing suite.
 # Install
 
 ```shell
-go get -u gitlab.com/acejam/Sia-Ant-Farm/...
-cd $GOPATH/src/gitlab.com/acejam/Sia-Ant-Farm
+go get -u github.com/acejam/Sia-Ant-Farm/...
+cd $GOPATH/src/github.com/acejam/Sia-Ant-Farm
 make dependencies && make
 ```
 

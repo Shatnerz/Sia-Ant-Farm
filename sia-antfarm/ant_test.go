@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"gitlab.com/acejam/Sia-Ant-Farm/ant"
+	"github.com/acejam/Sia-Ant-Farm/ant"
 	"gitlab.com/NebulousLabs/Sia/node/api/client"
 )
 
