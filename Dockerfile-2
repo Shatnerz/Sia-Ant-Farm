@@ -1,0 +1,30 @@
+FROM frolvlad/alpine-glibc:alpine-3.8
+MAINTAINER Joshua Noble <acejam@gmail.com>
+
+RUN apk --no-cache add git go build-base
+# RUN ls
+ENV test 2
+RUN go get -d gitlab.com/NebulousLabs/Sia-Ant-Farm/...
+# RUN apk --no-cache add build-base
+# RUN cd /root/go/src/gitlab.com/NebulousLabs/Sia-Ant-Farm && \
+#     make dependencies && make
+#
+# ENV GOPATH /root/go
+# ENV PATH /root/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+# # RUN apk --no-cache add socat
+# COPY config.json /root/go/bin
+# # ENTRYPOINT socat tcp-listen:9980,reuseaddr,fork tcp:localhost:8000 & \
+# CMD /root/go/bin/sia-antfarm -config /root/go/bin/config.json
+
+# COPY config.json /go
+
+
+# COPY sia-antfarm-bin /go/bin
+# RUN go get -u github.com/NebulousLabs/Sia-Ant-Farm/... && \
+#     cd $GOPATH/src/github.com/NebulousLabs/Sia-Ant-Farm && \
+#     make dependencies && make
+#
+# RUN sia-antfarm -c /go/config.json
+
+# CMD env GOOS=macos GOARCH=amd64 /go/bin/sia-antfarm-bin -c /go/config.json
+# ENTRYPOINT socat tcp-listen:9980,reuseaddr,fork tcp:localhost:8000 & sia-antfarm

@@ -1,0 +1,41 @@
+{
+  "antconfigs": [
+    {
+      "jobs": [
+        "gateway"
+      ],
+      "desiredcurrency": 100000,
+      "apiaddr": "127.0.0.1:9980",
+      "rpcaddr": "127.0.0.1:9981",
+      "hostaddr": "127.0.0.1:9982"
+    },
+    {
+      "jobs": [
+        "host"
+      ],
+      "desiredcurrency": 100000,
+      "apiaddr": "127.0.0.1:9983",
+      "rpcaddr": "127.0.0.1:9984",
+      "hostaddr": "127.0.0.1:9985"
+    },
+    {
+      "jobs": [
+        "host"
+      ],
+      "desiredcurrency": 100000,
+      "apiaddr": "127.0.0.1:9986",
+      "rpcaddr": "127.0.0.1:9987",
+      "hostaddr": "127.0.0.1:9988"
+    },
+    {
+      "jobs": [
+        "host"
+      ],
+      "desiredcurrency": 100000,
+      "apiaddr": "127.0.0.1:9989",
+      "rpcaddr": "127.0.0.1:9990",
+      "hostaddr": "127.0.0.1:9991"
+    }
+  ],
+  "autoconnect": true
+}
