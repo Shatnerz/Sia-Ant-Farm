@@ -7,7 +7,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/acejam/Sia-Ant-Farm/ant"
+	"github.com/shatnerz/Sia-Ant-Farm/ant"
 	"gitlab.com/NebulousLabs/Sia/modules"
 	"gitlab.com/NebulousLabs/Sia/node/api/client"
 	"gitlab.com/NebulousLabs/Sia/types"
